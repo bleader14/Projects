@@ -1,1 +1,1 @@
-This repository will showcase all of my personal projects
+This repository creates a recipe website demonstrating basic structural HTML skills
